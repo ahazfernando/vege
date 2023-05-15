@@ -1,0 +1,45 @@
+@import url('https://fonts.googleleapis.com/css? family=Nato+San+JP');
+#photo{
+    height: 950px;
+    margin: 15px;
+    width: 200px;
+    float: left;
+    background-color: rgb(82, 77,78);
+}
+#myName, #jobTitle {
+    text-align: center;
+    color: white;
+    background: black;
+}
+
+#intro {
+    float: left;
+    text-align: justify;
+    width: 1000px;
+    margin: 5px;
+    margin-top: 17px;
+}
+#abouthead{
+    color: whitesmoke;
+    background-color: rgb(82, 77,78);
+    width: 180px;
+}
+
+body{
+    background-color: aliceblue;
+}
+#nav a
+{
+    text-decoration: none;
+    color: white;
+    background: #152238;
+    border-radius: 25px;
+    padding: 5px 10px;
+    float: right;
+    margin-right: 2%;
+}
+#nav a:hover
+{
+    background: darkolivegreen;
+    color: white;
+}
